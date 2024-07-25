@@ -1,0 +1,31 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    overflow-x: hidden;
+}
+
+h1{
+    font-family: "Moon Dance", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+.carousel-item img{
+    width: 50%;
+    height:80vh ;
+}
+.card :hover{
+    background-color:#DC3545;
+    transform: scale(1.03);
+    color:white;
+}
+.skills code{
+    color: rgb(52, 14, 242);
+}
+.gains code{
+    color: rgb(52, 14, 242);
+
+}
